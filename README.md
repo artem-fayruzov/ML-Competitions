@@ -4,3 +4,5 @@
 - Recall: 0.9026
 - F1-score: 0.5802
 - ROC AUC: 0.9962
+## Titanic
+- Accuracy: 0.78229
